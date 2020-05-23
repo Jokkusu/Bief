@@ -1,0 +1,61 @@
+fileFormatVersion: 2
+guid: e2556035f3bef5e4fac95f9e7883966b
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Texture
+    21300000: all_0
+    21300002: all_1
+    21300004: all_2
+    21300006: all_3
+    21300008: all_4
+    21300010: all_5
+    21300012: all_6
+    21300014: all_7
+    21300016: all_8
+    21300018: all_9
+    21300020: all_10
+    21300022: all_11
+    21300024: all_12
+    21300026: all_13
+    21300028: all_14
+    21300030: all_15
+    21300032: all_16
+    21300034: all_17
+    21300036: all_18
+    21300038: all_19
+    21300040: all_20
+    21300042: all_21
+    21300044: all_22
+    21300046: all_23
+    21300048: all_24
+    21300050: all_25
+    21300052: all_26
+    21300054: all_27
+    21300056: all_28
+    21300058: all_29
+    21300060: all_30
+    21300062: all_31
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 25a63327f814cd04cbdbd7e8ae6dfcf9, type: 3}
+  textureSettings:
+    textureType: 8
+    pixelsPerUnit: 32
+    mirror: 0
+    transparentMask: 0
+    transparentColor: {r: 1, g: 0, b: 1, a: 1}
+    meshType: 1
+    extrudeEdges: 1
+    spritePivot: {x: 0.5, y: 0.5}
+    generatePhysics: 1
+    wrapMode: 1
+    filterMode: 0
+    tileSize: {x: 32, y: 32}
+    tilePadding: {x: 0, y: 0}
+    tileOffset: {x: 0, y: 0}
+  animationSettings: []
+  atlas: {instanceID: 0}
+  importType: 1
+  bindType: 0
